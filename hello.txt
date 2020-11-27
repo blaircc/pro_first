@@ -16,4 +16,13 @@ Hello git Hello git!
 Hello git Hello git! hot-fix test &hot
 Hello git Hello git! hot-fix test$$hot3
 >>>>>>> hot-fix
+lalalalallalalallala
+lalalalalallaalallala
+woshimaibaoxiaohangjia
+woshimaibaoxiaohangjia
+woshimaibaoxiaohangjia
+woshimaibaoxiaohangjia
+woshimaibaoxiaohangjia
+woshimaibaoxiaohangjia
+
 
